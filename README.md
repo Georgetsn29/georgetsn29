@@ -27,6 +27,8 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 <hr>
 
+
+
 ## 🛠️ Languages and Tools
 
 <br>
@@ -37,6 +39,8 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 </p>
 
 <hr>
+
+
 
 ## ⚡️ Stats
 
