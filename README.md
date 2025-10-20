@@ -1,4 +1,5 @@
 
+<br>
 
 ```yaml
 name: Giorgi Tsnobiladze
@@ -23,6 +24,8 @@ technical_background:
 currently_learning: [" angular and React Native"]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
+
+<hr>
 
 ## 🛠️ Languages and Tools
 
