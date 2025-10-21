@@ -1,6 +1,6 @@
 Hi 👋! My name is Giorgi Tsnobiladze and I'm a Web Developer from Georgia.
 
-<br>
+<hr>
 
 
 ```yaml
