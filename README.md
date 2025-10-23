@@ -36,7 +36,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,angular,ts,nodejs,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,nodejs,react,nextjs" />
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,figma" />
 </p>
 
