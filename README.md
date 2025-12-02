@@ -8,7 +8,7 @@ name: Giorgi Tsnobiladze
 located_in: Tbilisi, Georgia
 education:
   [
-    "Self-Taught Developer and Designer"
+    "Self-Taught Front-End Developer and Designer"
   ]
 
 fields_of_interests:
@@ -20,7 +20,7 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "FrontEnd Developer"
+    "Front-End Developer"
   ]
   
 currently_learning: [" angular and React Native"]
@@ -37,7 +37,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,figma" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,nodejs," />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,nodejs,expressjs" />
 </p>
 
 <hr>
