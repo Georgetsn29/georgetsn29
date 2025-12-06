@@ -24,7 +24,7 @@ technical_background:
   ]
   
 currently_learning: [" angular and React Native"]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
 ```
 
 <hr>
