@@ -1,4 +1,4 @@
-Hi 👋! My name is Giorgi Tsnobiladze and I'm a Junior Front-End Developer from Georgia.
+Hi 👋! My name is Giorgi Tsnobiladze and I'm a Junior Full Stack Developer from Georgia.
 
 <hr>
 
@@ -8,7 +8,7 @@ name: Giorgi Tsnobiladze
 located_in: Tbilisi, Georgia
 education:
   [
-    "Self-Taught Front-End Developer and Designer"
+    "Self-Taught Full Stack Developer and Designer"
   ]
 
 fields_of_interests:
@@ -23,7 +23,7 @@ technical_background:
     "Front-End Developer"
   ]
   
-currently_learning: [" angular and React Native"]
+currently_learning: [" node.js and React Native"]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
 ```
 
@@ -37,7 +37,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art"]
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,git,figma" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,expressjs,mongoDB" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,expressjs,mongodb" />
 </p>
 
 <hr>
