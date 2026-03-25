@@ -1,4 +1,4 @@
-Hi 👋! My name is Giorgi Tsnobiladze and I'm a Junior Full Stack Developer from Georgia.
+Hi 👋! My name is Giorgi Tsnobiladze and I'm a Junior Full Stack Web Developer from Georgia.
 
 <hr>
 
@@ -8,7 +8,7 @@ name: Giorgi Tsnobiladze
 located_in: Tbilisi, Georgia
 education:
   [
-    "Self-Taught Full Stack Developer and Designer"
+    "Self-Taught Full Stack Web Developer and Designer"
   ]
 
 fields_of_interests:
