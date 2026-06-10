@@ -8,7 +8,7 @@ name: Giorgi Tsnobiladze
 located_in: Tbilisi, Georgia
 education:
   [
-    "Self-Taught Full Stack Web Developer and Designer"
+    "Full-Stack Web Development Course | GITA X Mziuri"
   ]
 
 fields_of_interests:
