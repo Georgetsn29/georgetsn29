@@ -23,7 +23,7 @@ technical_background:
     "Front-End Developer"
   ]
   
-currently_learning: [" node.js and React Native"]
+currently_learning: [" node.js and PHP(Laravel)"]
 hobbies: ["Gaming", "Driving", "Skateboarding", "Art"]
 ```
 
