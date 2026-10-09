@@ -36,9 +36,9 @@ hobbies: ["Gaming", "Driving", "Skateboarding", "Art"]
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,tailwind,git,figma" />
   <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,expressjs,php,laravel,postman,mongodb,MySQL" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,expressjs,php,laravel,postman,mongodb" />
 </p>
 
 <hr>
